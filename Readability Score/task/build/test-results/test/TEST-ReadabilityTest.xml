@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReadabilityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-07T15:46:09" hostname="EO9011218" time="0.195">
+  <properties/>
+  <testcase name="start" classname="ReadabilityTest" time="0.195"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Words: 108
+Sentences: 7
+Characters: 580
+Syllables: 198
+Polysyllables: 22
+Enter the score you want to calculate (ARI, FK, SMOG, CL, all): > all
+
+Automated Readability Index: 11.58 (about 18 year olds).
+Flesch–Kincaid readability tests: 12.06 (about 24 year olds).
+Simple Measure of Gobbledygook: 13.26 (about 24 year olds).
+Coleman–Liau index: 13.86 (about 24 year olds).
+
+This text should be understood in average by 22.5 year olds.
+?[1;31m
+Start test 2?[0m
+Words: 137
+Sentences: 15
+Characters: 687
+Syllables: 213
+Polysyllables: 16
+Enter the score you want to calculate (ARI, FK, SMOG, CL, all): > all
+
+Automated Readability Index: 6.76 (about 13 year olds).
+Flesch–Kincaid readability tests: 6.32 (about 13 year olds).
+Simple Measure of Gobbledygook: 9.03 (about 16 year olds).
+Coleman–Liau index: 10.44 (about 17 year olds).
+
+This text should be understood in average by 14.75 year olds.
+?[1;31m
+Start test 3?[0m
+Words: 180
+Sentences: 14
+Characters: 982
+Syllables: 316
+Polysyllables: 33
+Enter the score you want to calculate (ARI, FK, SMOG, CL, all): > all
+
+Automated Readability Index: 10.69 (about 17 year olds).
+Flesch–Kincaid readability tests: 10.14 (about 17 year olds).
+Simple Measure of Gobbledygook: 11.90 (about 18 year olds).
+Coleman–Liau index: 13.98 (about 24 year olds).
+
+This text should be understood in average by 19.0 year olds.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

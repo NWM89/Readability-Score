@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="java version &quot;11.0.9+11&quot;" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/10 days before" />
+            <option value="$PROJECT_DIR$/Problems/Basic calculator" />
+            <option value="$PROJECT_DIR$/Problems/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Problems/Employee" />
+            <option value="$PROJECT_DIR$/Problems/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Problems/Piece of alphabet" />
+            <option value="$PROJECT_DIR$/Problems/The first and the last day of a month" />
+            <option value="$PROJECT_DIR$/Problems/The index of an argument" />
+            <option value="$PROJECT_DIR$/Problems/The last day of a month" />
+            <option value="$PROJECT_DIR$/Problems/The longest word" />
+            <option value="$PROJECT_DIR$/Readability Score/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
